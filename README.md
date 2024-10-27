@@ -1,1 +1,1 @@
-"# facebook-feed-eradicator" 
+# facebook-feed-eradicator
